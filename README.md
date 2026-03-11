@@ -1,4 +1,4 @@
-# MyOs
+# SiSuX-Os
 A hobby operating system written in C and x86 assembly.
 
 Features:
